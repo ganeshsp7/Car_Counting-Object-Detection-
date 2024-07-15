@@ -15,7 +15,7 @@ This project utilizes YOLOv8 (You Only Look Once version 8) for real-time vehicl
 1. Clone the repository:
     ```bash
     https://github.com/ganeshsp7/Car_Counting-Object-Detection-.git
-    cd Car_Counting-Object-Detection
+    cd Car_Counting-Object-Detection/Car Counter
     ```
 
 2. Create a virtual environment and activate it:
@@ -37,7 +37,7 @@ This project utilizes YOLOv8 (You Only Look Once version 8) for real-time vehicl
 2. Ensure you have the `mask.png` and `graphics.png` files in the project root.
 3. Run the main script:
     ```bash
-    python main.py
+    python Car Counter/Car_Counter.py
     ```
 
 ## Code Explanation
