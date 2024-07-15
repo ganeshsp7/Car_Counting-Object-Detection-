@@ -29,7 +29,7 @@ This project utilizes YOLOv8 (You Only Look Once version 8) for real-time vehicl
     pip install -r requirements.txt
     ```
 
-4. Download the YOLOv8 weights and place them in the `Yolo-Weights` directory.
+4. Download the YOLOv8 weights and place them in the `Yolo-Weights` directory. (Its Already download)
 
 ## Usage
 
