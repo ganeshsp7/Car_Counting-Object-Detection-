@@ -14,7 +14,7 @@ This project utilizes YOLOv8 (You Only Look Once version 8) for real-time vehicl
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Car_Counting-Object-Detection.git
+    https://github.com/ganeshsp7/Car_Counting-Object-Detection-.git
     cd Car_Counting-Object-Detection
     ```
 
